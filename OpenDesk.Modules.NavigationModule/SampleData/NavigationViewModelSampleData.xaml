@@ -1,0 +1,2 @@
+<OpenDesk_Modules_NavigationModule:NavigationViewModel xmlns:OpenDesk_Modules_NavigationModule="clr-namespace:OpenDesk.Modules.NavigationModule"
+                                                    x:Class="OpenDesk.Modules.NavigationModule.SampleData.NavigationViewModelSampleData" />

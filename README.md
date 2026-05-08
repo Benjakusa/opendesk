@@ -1,6 +1,4 @@
-#SambaPOS Touch Screen POS Software
+#OpenDesk Touch Screen POS Software
 
-More Information
-http://emreeren.github.com/SambaPOS-3/
-
-Visit www.sambapos.com for stable releases.
+Originally forked from SambaPOS-3 (https://github.com/emreeren/SambaPOS-3).
+Rebranded and maintained by OpenDesk under GPLv3.
